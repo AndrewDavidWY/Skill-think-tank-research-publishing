@@ -1,0 +1,4 @@
+interface:
+  display_name: "智库专题研究与内容发布"
+  short_description: "从选题线索重新研究内容，完成管理方法、理论结合、配图与网站交付"
+  default_prompt: "请用 $think-tank-research-publishing 梳理这批资料的选题，面向企业经营者和团队重建实用内容，并按本次范围交付。"
